@@ -12,6 +12,6 @@
   "require": {
     "php": ">=7.3.0",
     "topthink/framework": "^6.0.0",
-    "monolog/monolog"
+    "monolog/monolog":""
   }
 }
