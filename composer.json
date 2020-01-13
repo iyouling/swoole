@@ -2,8 +2,7 @@
   "name": "iyouling/swoole",
   "description": "iMSE-swoole",
   "type": "project",
-  "minimum-stability": "dev",
-  "license": "proprietary",
+  "license": "iyouling",
   "authors": [
     {
       "name": "iyouling",
