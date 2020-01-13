@@ -12,6 +12,7 @@
   "require": {
     "php": ">=7.3.0",
     "topthink/framework": "^6.0.0",
-    "monolog/monolog":"1.2.*"
+    "monolog/monolog":"1.2.*",
+    "zoujingli/wechat-developer":"1.2.16"
   }
 }
