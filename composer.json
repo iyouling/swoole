@@ -1,0 +1,12 @@
+{
+  "name": "iyouling/swoole",
+  "description": "iMSE-swoole",
+  "minimum-stability": "dev",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "iyouling",
+      "email": "iyouling@vip.qq.com"
+    }
+  ]
+}
